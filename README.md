@@ -10,33 +10,3 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marashot96&show_icons=true&locale=en&layout=compact" alt="marashot96" /></p>
-
-{
-  "id": "684d49c94f8cc595988baa06",
-  "username": "marashot96",
-  "name": null,
-  "honor": 239,
-  "clan": null,
-  "leaderboardPosition": 366571,
-  "skills": null,
-  "ranks": {
-    "overall": {
-      "rank": -5,
-      "name": "5 kyu",
-      "color": "yellow",
-      "score": 278
-    },
-    "languages": {
-      "python": {
-        "rank": -5,
-        "name": "5 kyu",
-        "color": "yellow",
-        "score": 278
-      }
-    }
-  },
-  "codeChallenges": {
-    "totalAuthored": 0,
-    "totalCompleted": 9
-  }
-}

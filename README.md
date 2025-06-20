@@ -40,12 +40,19 @@
 ## 📁 Структура репозитория
 Python-skills/
 ├── notebooks/
+
 │ ├── transaction_analysis.ipynb
+
 │ ├── numpy_stats.ipynb
+
 │ ├── visualization.ipynb
+
 │ ├── modeling_example.ipynb
+
 │ └── codewars_challenges.ipynb
+
 ├── data/ # Примерные обезличенные CSV-файлы
+
 ├── README.md
 
 ---
